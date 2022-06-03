@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "768272952218",
+    "project_id": "prayer-app-9afa1",
+    "storage_bucket": "prayer-app-9afa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768272952218:android:0d0d0aaf5296e3eb5ba823",
+        "android_client_info": {
+          "package_name": "com.fictivestudios.prayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768272952218-obhoouimte03ii4kl9u7ku1dj36116vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fictivestudios.prayer",
+            "certificate_hash": "47e847c464c2662f1d55430bb4a3a6916aca17a7"
+          }
+        },
+        {
+          "client_id": "768272952218-4vkopr7g47f6mu55f19q8jm0vkmtrjua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJVufwatQFxQ3C_J2rDVAXnveeOyxxMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768272952218-4vkopr7g47f6mu55f19q8jm0vkmtrjua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768272952218-g3h9tsbgsd03uvcdtrdjg9rf1uvf5vae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fictivestudios.prayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
